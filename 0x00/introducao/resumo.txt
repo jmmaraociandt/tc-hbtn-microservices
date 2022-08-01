@@ -1,0 +1,12 @@
+Microsserviços é um termo que se refere a uma arquitetura de software. Este padrão consiste na autossuficiência das partes de um sistema, isto é, o sistema é fragmentado em partes autônomas. Desta forma, cada parte pode ser desenvolvido e disponibilizado independentemente de outra parte.
+
+Dentre os benefícios dos microsserviços podem ser citados: agilidade, escalabilidaded flexível, fácil implantação, liberdade tecnológica, código reutilizável e resiliência.
+
+Padrões de arquitetura monolítica tem como base um processo altamente acoplado e executam apenas um serviço. Isto é, se um processo apresentar um pico de solicitações, toda a arquitetura será escalada. Por se tratar de um sistema unificado a adição, e até mesmo refatoramento, de recursos em aplicativos monolíticos contribui com o crescimento da base e código. Tal fator limita a implementação de novas ideias, e contribui com o impacto de falhas de um único processo.
+
+Microsserviços são recomendados em:
+   - Aplicações grandes  e complexas (alta taxa de velocidade de liberação);
+   - Aplicações com muitos domínios;
+   - Pequenos times de desenvolvimento.
+
+Dentre as formas de comunicação entre microsserviços podem ser citadas as comunicações por: HTTP, mensagens e orientadas a eventos.
