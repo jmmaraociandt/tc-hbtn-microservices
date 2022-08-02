@@ -7,3 +7,5 @@ Java Development Kit used: [11](https://www.oracle.com/java/technologies/downloa
 - Project 38: [Microsservices concepts](https://github.com/jmmaraociandt/tc-hbtn-microservices/tree/main/0x00)
 
 - Project 39: [Microsservices - APIs and tools](https://github.com/jmmaraociandt/tc-hbtn-microservices/tree/main/0x01)
+
+- Project 40: [Microsservices - serverless architecture and FaaS](https://github.com/jmmaraociandt/tc-hbtn-microservices/tree/main/0x02)
